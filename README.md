@@ -31,11 +31,11 @@
 <p>&nbsp;</p>
 
 ## 📈 Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkumar96674&show_icons=true&locale=en&layout=compact" alt="sandeepkumar96674" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pintukumar5628&show_icons=true&locale=en&layout=compact" alt="pintukumar5628" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepkumar96674&show_icons=true&locale=en" alt="sandeepkumar96674" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pintukumar5628&show_icons=true&locale=en" alt="pintukumar5628" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar96674&" alt="sandeepkumar96674" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pintukumar5628&" alt="sandeepkumar96674" /></p>
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pintukumar5628&theme=radical&no-frame=false&no-bg=true&margin-w=4)
