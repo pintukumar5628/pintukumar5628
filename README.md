@@ -7,7 +7,7 @@
   <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pintukumar5628&label=Visitors&color=5cc0ff&style=plastic" alt="Pintu Kumar Sah" /> </p>
-<p align="left"> <a href="https://http://Instagram.com/pintu_gupta_147" target="blank"><img src="https://img.shields.io/badge/Follow-%40sarcastic_sandy_0_0-%23E4405F?style=for-the-badge&logo=instagram" alt="Pintu Kumar Sah" /></a> </p>
+<p align="left"> <a href="https://http://Instagram.com/pintu_gupta_147" target="blank"><img src="https://img.shields.io/badge/Follow-%40pintu_gupta_147-%23E4405F?style=for-the-badge&logo=instagram" alt="Pintu Kumar Sah" /></a> </p>
 
 -  📫 How to reach me **pintukumarsah718@gmail.com**
 - ⚡ Fun fact : **Data scientists can find hidden insights in petabytes of data faster than a caffeinated squirrel solving a jigsaw puzzle!**
