@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
+<h1 align="center">Hi 👋, I'm Pintu Kumar Sah</h1>
 <h3 align="center">A boy navigating the puzzle of existence !!</h3>
 <h3 align="center">🔭 I’m currently exploring the world of data science and machine learning, eager to apply my skills to real-world challenges. My academic background in [B.Tech,CSE(AI & ML)] has equipped me with a strong foundation in statistics, programming, and problem-solving.</h3><br>
 <p>&nbsp;</p>
@@ -6,17 +6,17 @@
 <p>
   <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pintukumar5628&label=Visitors&color=5cc0ff&style=plastic" alt="Pintu Kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pintukumar5628&label=Visitors&color=5cc0ff&style=plastic" alt="Pintu Kumar Sah" /> </p>
 <p align="left"> <a href="https://www.instagram.com/sarcastic_sandy_0_0" target="blank"><img src="https://img.shields.io/badge/Follow-%40sarcastic_sandy_0_0-%23E4405F?style=for-the-badge&logo=instagram" alt="sarcastic_sandy_0_0" /></a> </p>
 
--  📫 How to reach me **sandeepkumar737286@gmail.com**
+-  📫 How to reach me **pintukumarsah718@gmail.com**
 - ⚡ Fun fact : **Data scientists can find hidden insights in petabytes of data faster than a caffeinated squirrel solving a jigsaw puzzle!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sandeep-kumar-488a1b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-kumar-488a1b222" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pintu-kumar-sah-488a1b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pintu Kumar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kumarsandeep1102?hr_r=1" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.SP5AjgaqCwsd1UVtScTD5gHaHa&pid=Api&P=0&h=180" alt="kumarsandeep1102" height="30" width="40" /></a>
-<a href="https://leetcode.com/Sandeep_Kumar96674/" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.DENauUixUf2DS-VfgKCXlAHaD2&pid=Api&P=0&h=180" alt="Sandeep_Kumar96674" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/2cb29e1f-7667-49cc-ac64-4a7467107dc6" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.YGMKfBEvia_lF6TyOdbQfwHaHa&pid=Api&P=0&h=180" alt="Sandeep_Kumar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/pintukumarsah718/" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.DENauUixUf2DS-VfgKCXlAHaD2&pid=Api&P=0&h=180" alt="Sandeep_Kumar96674" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/2cb29e1f-7667-49cc-ac64-4a7467107dc6" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.YGMKfBEvia_lF6TyOdbQfwHaHa&pid=Api&P=0&h=180" alt="Pintu_Kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pintukumar5628&show_icons=true&locale=en" alt="pintukumar5628" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pintukumar5628&" alt="sandeepkumar96674" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pintukumar5628&" alt="pintukumar5628" /></p>
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=pintukumar5628&theme=radical&no-frame=false&no-bg=true&margin-w=4)
