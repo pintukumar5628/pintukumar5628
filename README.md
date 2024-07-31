@@ -1,34 +1,41 @@
-<h1 align="center">Hi 👋, I'm Pintu Kumar Sah</h1>
-<h3 align="center">A youth journeying through the intricate puzzle of life's existence!</h3>
+<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
+<h3 align="center">A boy navigating the puzzle of existence !!</h3>
+<h3 align="center">🔭 I’m currently exploring the world of data science and machine learning, eager to apply my skills to real-world challenges. My academic background in [B.Tech,CSE(AI & ML)] has equipped me with a strong foundation in statistics, programming, and problem-solving.</h3><br>
+<p>&nbsp;</p>
 
-"I am currently exploring the domains of data science and machine learning, fueled by a strong desire to utilize my expertise in addressing real-world issues. Possessing a B.Tech in Computer Science with a focus on Artificial Intelligence and Machine Learning, my educational voyage has endowed me with a solid foundation in statistics, programming, and proficient problem-solving skills."
+<p>
+  <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepkumar96674&label=Visitors&color=5cc0ff&style=plastic" alt="Sandeep Kumar" /> </p>
+<p align="left"> <a href="https://www.instagram.com/sarcastic_sandy_0_0" target="blank"><img src="https://img.shields.io/badge/Follow-%40sarcastic_sandy_0_0-%23E4405F?style=for-the-badge&logo=instagram" alt="sarcastic_sandy_0_0" /></a> </p>
 
-![image](https://github.com/impintu/impintu/assets/126938670/ca77261e-c513-48c2-8bdf-94ba78c616b6)
-‪
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=impintu&label=Profile%20views&color=0e75b6&style=flat" alt="impintu" /> </p>
-
-- 🌱 I’m currently learning **Data Science**
-
-- 💬 Ask me about **Python Statistics Database Web API Flask Excel Core java**
-
-- 📫 How to reach me **pintukumarsah718@gmail.com**
-
-- ⚡ Fun fact **I am funny🤗**
-
+-  📫 How to reach me **sandeepkumar737286@gmail.com**
+- ⚡ Fun fact : **Data scientists can find hidden insights in petabytes of data faster than a caffeinated squirrel solving a jigsaw puzzle!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pintu kumar sah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pintu kumar sah" height="30" width="40" /></a>
-<a href="https://instagram.com/pintu_gupta_147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pintu_gupta_147" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/digital gyan coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="digital gyan coding" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandeep-kumar-488a1b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-kumar-488a1b222" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kumarsandeep1102?hr_r=1" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.SP5AjgaqCwsd1UVtScTD5gHaHa&pid=Api&P=0&h=180" alt="kumarsandeep1102" height="30" width="40" /></a>
+<a href="https://leetcode.com/Sandeep_Kumar96674/" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.DENauUixUf2DS-VfgKCXlAHaD2&pid=Api&P=0&h=180" alt="Sandeep_Kumar96674" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/2cb29e1f-7667-49cc-ac64-4a7467107dc6" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.YGMKfBEvia_lF6TyOdbQfwHaHa&pid=Api&P=0&h=180" alt="Sandeep_Kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=impintu&show_icons=true&locale=en&layout=compact" alt="impintu" /></p>
+<p>&nbsp;</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impintu&show_icons=true&locale=en" alt="impintu" /></p>
+## 📈 Statistics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkumar96674&show_icons=true&locale=en&layout=compact" alt="sandeepkumar96674" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impintu&" alt="impintu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepkumar96674&show_icons=true&locale=en" alt="sandeepkumar96674" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumar96674&" alt="sandeepkumar96674" /></p>
+</p>
+
+![](https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=radical&no-frame=false&no-bg=true&margin-w=4)
