@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pintu-kumar-sah-488a1b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pintu Kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kumarsandeep1102?hr_r=1" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.SP5AjgaqCwsd1UVtScTD5gHaHa&pid=Api&P=0&h=180" alt="kumarsandeep1102" height="30" width="40" /></a>
+<a href="https://https://www.hackerrank.com/profile/pintukumarsah718?hr_r=1" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.SP5AjgaqCwsd1UVtScTD5gHaHa&pid=Api&P=0&h=180" alt="pintukumarsah718" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/pintukumarsah718/" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.DENauUixUf2DS-VfgKCXlAHaD2&pid=Api&P=0&h=180" alt="Sandeep_Kumar96674" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/studio/profile/2cb29e1f-7667-49cc-ac64-4a7467107dc6" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.YGMKfBEvia_lF6TyOdbQfwHaHa&pid=Api&P=0&h=180" alt="Pintu_Kumar" height="30" width="40" /></a>
 </p>
