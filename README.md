@@ -38,3 +38,48 @@
 </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=pintukumar5628&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="left">Trophy and Achievements:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
+![](https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+<br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sandeepkumar96674&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
+
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepkumar96674&show_icons=true&locale=en&layout=compact" alt="sandeepkumar96674" /></p>
+
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepkumar96674\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![Sandeep's GitHub Streak](https://streak-stats.demolab.com/?user=sandeepkumar96674&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Sandeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepkumar96674&custom_title=Sandeep's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
