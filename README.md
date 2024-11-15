@@ -18,6 +18,76 @@
 <a href="https://leetcode.com/u/pintukumarsah718/" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.DENauUixUf2DS-VfgKCXlAHaD2&pid=Api&P=0&h=180" alt="Sandeep_Kumar96674" height="30" width="40" /></a>
 </p>
 
+## Skills:
+- **Data Analysis:** 
+  [![Pandas](https://img.shields.io/badge/-Pandas-black)](https://github.com/ParimalA24-DS)
+  [![NumPy](https://img.shields.io/badge/-NumPy-lightgrey)](https://github.com/ParimalA24-DS)
+  [![SQL](https://img.shields.io/badge/-SQL-red)](https://github.com/ParimalA24-DS)
+  [![Microsoft Excel](https://img.shields.io/badge/-Excel-green)](https://github.com/ParimalA24-DS)
+  
+- **Data Visualization:** 
+  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-blueviolet)](https://github.com/ParimalA24-DS)
+  [![Seaborn](https://img.shields.io/badge/-Seaborn-9cf)](https://github.com/ParimalA24-DS)
+  [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)](https://github.com/ParimalA24-DS)
+  [![Tableau](https://img.shields.io/badge/-Tableau-ff69b4)](https://github.com/ParimalA24-DS)
+  
+- **Microsoft Excel Skills:**
+[![Power Query](https://img.shields.io/badge/-Power%20Query-green)](https://github.com/ParimalA24-DS)
+[![Advanced Microsoft Excel](https://img.shields.io/badge/-Advanced%20Microsoft%20Excel-blue)](https://github.com/ParimalA24-DS)
+[![Power Pivot](https://img.shields.io/badge/-Power%20Pivot-orange)](https://github.com/ParimalA24-DS)
+[![Power Query](https://img.shields.io/badge/-Power%20Query-red)](https://github.com/ParimalA24-DS)
+[![Forecasting](https://img.shields.io/badge/-Forecasting-purple)](https://github.com/ParimalA24-DS)
+[![Macros/VBA](https://img.shields.io/badge/-Macros%20%26%20VBA-red)](https://github.com/ParimalA24-DS)
+- **POWER BI:**
+[![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)](https://github.com/ParimalA24-DS)
+[![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-blue)](https://github.com/ParimalA24-DS)
+[![Star & Snowflake Schema](https://img.shields.io/badge/-Star%20&%20Snowflake%20Schema-purple)](https://github.com/ParimalA24-DS)
+[![DAX](https://img.shields.io/badge/-DAX-red)](https://github.com/ParimalA24-DS)
+[![Power Query](https://img.shields.io/badge/-Power%20Query-green)](https://github.com/ParimalA24-DS)
+
+- **Programming:** 
+  [![Python](https://img.shields.io/badge/-Python-yellowgreen)](https://github.com/ParimalA24-DS)
+  [![SQL](https://img.shields.io/badge/-MySQL-blue)](https://github.com/ParimalA24-DS)
+  [![MySQL](https://img.shields.io/badge/-MySQL-blue)](https://github.com/ParimalA24-DS)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791)](https://github.com/ParimalA24-DS)
+  [![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927)](https://github.com/ParimalA24-DS)
+  
+- **Business Analytical Skills:**
+[![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-blue)](https://github.com/ParimalA24-DS)
+[![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-green)](https://github.com/ParimalA24-DS)
+[![Requirements Gathering](https://img.shields.io/badge/-Requirements%20Gathering-orange)](https://github.com/ParimalA24-DS)
+[![Process Improvement](https://img.shields.io/badge/-Process%20Improvement-red)](https://github.com/ParimalA24-DS)
+[![Agile Methodology](https://img.shields.io/badge/-Agile%20Methodology-lightgrey)](https://github.com/ParimalA24-DS)
+[![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-blue)](https://github.com/ParimalA24-DS)
+[![Data Interpretation](https://img.shields.io/badge/-Data%20Interpretation-orange)](https://github.com/ParimalA24-DS)
+[![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple)](https://github.com/ParimalA24-DS)
+[![Critical Thinking](https://img.shields.io/badge/-Critical%20Thinking-yellow)](https://github.com/ParimalA24-DS)
+[![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-red)](https://github.com/ParimalA24-DS)
+
+- **Machine Learning:** 
+  [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-brightgreen)](https://github.com/ParimalA24-DS)
+  [![Regression](https://img.shields.io/badge/-Regression-orange)](https://github.com/ParimalA24-DS)
+  [![Classification](https://img.shields.io/badge/-Classification-yellow)](https://github.com/ParimalA24-DS)
+  [![Clustering](https://img.shields.io/badge/-Clustering-blue)](https://github.com/ParimalA24-DS)
+  
+- **Deep Learning:** 
+  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)](https://github.com/ParimalA24-DS)
+  [![Keras](https://img.shields.io/badge/-Keras-red)](https://github.com/ParimalA24-DS)
+  [![PyTorch](https://img.shields.io/badge/-PyTorch-lightgrey)](https://github.com/ParimalA24-DS)
+  
+
+## 🌱 Learning
+- **Cloud Computing (AWS, Azure)**:
+  ![AWS](https://img.shields.io/badge/-AWS-orange)
+  ![Azure](https://img.shields.io/badge/-Azure-blue)
+- **Generative AI**:
+  ![Generative AI](https://img.shields.io/badge/-Generative%20AI-blueviolet)
+  ### Skills in Focus
+- **SQL**: Advanced query techniques and database management. (Using HackerRank and SQLZOO, LeetCode)
+- **Power BI**: Dashboard creation and data visualization.
+- **Microsoft Excel**: Advanced data manipulation and visualization techniques.
+- **Data Analysis**: Applying analytical methods and tools to extract actionable insights from data using a real dataset 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
