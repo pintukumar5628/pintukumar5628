@@ -144,3 +144,15 @@
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+---
+## 📊 Data Analysis in Action
+
+<p align="center">
+    <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/31.gif" alt="Data Analyst GIF" width="400" />
+</p>
+
+<p align="center">
+    <strong>Data Visualization & Storytelling</strong> - Understanding data, creating visualizations, and taking actionable insights.
+</p>
+
