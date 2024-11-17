@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pintu Kumar Sah</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&Center=true&pause=1000&width=435&lines=Hello%2C+I+am+Sandeep+Kumar.+;A+Data+Science+Enthusiast+;A+Data+Analyst;Community+Contributer;">
+</p>
 <h3 align="center">A boy navigating the puzzle of existence !!</h3>
 <h3 align="center">🔭 I’m currently exploring the world of data science and machine learning, eager to apply my skills to real-world challenges. My academic background in [B.Tech,CSE(AI & ML)] has equipped me with a strong foundation in statistics, programming, and problem-solving.</h3><br>
 <p>&nbsp;</p>
